@@ -1,2 +1,6 @@
 env/
 .idea/
+db.sqlite3
+OnlineMagazine/__pycache__/
+online_magazine/__pycache__/
+online_magazine/migrations/__pycache__/
